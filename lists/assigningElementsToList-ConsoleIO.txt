@@ -1,0 +1,26 @@
+------------------Alternative 1-------------------
+
+[]
+[None, None, None]
+Enter 0th element: Hydrogen
+Enter 1th element: Helium
+Enter 2th element: Lithium
+['Hydrogen', 'Helium', 'Lithium']
+
+
+------------------Alternative 2-------------------
+
+[None, None, None]
+Enter 0th element: a  
+Enter 1th element: s
+Enter 2th element: d
+Last element: 1
+['a', 's', 'd', '1']
+
+
+-----------------Best Alternative-----------------
+
+Enter 0th element: foo
+Enter 1th element: bar
+Enter 2th element: foooooooooo
+['foo', 'bar', 'foooooooooo']
